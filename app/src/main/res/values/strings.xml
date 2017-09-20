@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstFile</string>
+    <string name="main_filename">Nombre</string>
+    <string name="main_filetext">Texto</string>
+    <string name="main_savebtn">Guardar</string>
+    <string name="main_readbtn">Leer</string>
+</resources>
